@@ -8,6 +8,8 @@
 
 about the relationship between coffee consumption and cognitive performance using NHANES data in the US.
 
+
+
 This repository contains the code that supplements the main report. All the code is self-contained within the DATA notebook and the SUPPORTING CODE. The main report only contains examples, excerpts, and the final results from the code. 
 
 DATA -- Has loading, cleaning, variable construction, and all preprocessing decisions.
